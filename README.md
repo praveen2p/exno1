@@ -270,5 +270,6 @@ z
 
 
 
-# Result
-     Thus the programs are executed successfully.
+# Result:
+
+Thus the programs are executed successfully.
