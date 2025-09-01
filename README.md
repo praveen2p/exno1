@@ -30,13 +30,18 @@ import pandas as pd
 data=pd.read_csv("/content/SAMPLEIDS.csv")
 data
 ```
+
 # Output:
+
 <img width="1219" height="721" alt="image" src="https://github.com/user-attachments/assets/81494d48-ad79-4e27-8e50-0a6884df3f0e" />
+
+
 ```
 data.head(4)
 
 ```
 # Output:
+
 <img width="1175" height="351" alt="image" src="https://github.com/user-attachments/assets/84cd3824-b139-4501-a459-36994734ce3c" />
 
 
