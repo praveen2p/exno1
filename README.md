@@ -98,7 +98,7 @@ data.isnull().any()
 
 
 ```
-data.dropna(axis=0)
+data.dropna(axis=1)
 
 ```
 
@@ -109,7 +109,7 @@ data.dropna(axis=0)
 
 
 ```
-data.dropna(axis=1)
+data.dropna(axis=0)
 ```
 
 
